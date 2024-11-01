@@ -75,5 +75,5 @@ You can install the required libraries using pip:
 pip install pandas numpy scikit-learn imbalanced-learn xgboost
 ```
 
-##Conclusion
+## Conclusion
 This project demonstrates the effectiveness of machine learning techniques in detecting fraudulent credit card transactions. The models developed can serve as a foundation for further enhancements, such as incorporating more complex algorithms, feature engineering, or using additional datasets to improve accuracy.
