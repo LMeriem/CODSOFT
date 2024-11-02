@@ -68,5 +68,5 @@ Install the required libraries using pip:
 pip install pandas scikit-learn
 ```
 
-##Conclusion
+## Conclusion
 This project showcases the use of text classification techniques to predict movie genres based on plot descriptions. The models developed here can serve as a baseline for more advanced solutions, such as incorporating deep learning models or using additional text data to improve classification accuracy. This classification model could be used in various recommendation systems or movie databases to help users find content that matches their interests.
